@@ -1,6 +1,3 @@
-# game_algomon_website
-Multi-page promotional website for a fictional rabbit adventure game, built with HTML, CSS and vanilla JavaScript. Year 1 Client-Side Programming, CCT College Dublin.
-
 # 🐰 Algomon – Game Website
 
 A multi-page promotional website for *Algomon*, a fictional adventure game where
@@ -10,7 +7,7 @@ surviving and customising your character.
 Built for the Client-Side Programming module (Year 1, BSc (Hons) Computing & IT,
 CCT College Dublin, 2024).
 
-🔗 **Live demo:** https://YOUR-USERNAME.github.io/algomon-game-website/
+🔗 **Live demo:** https://barbsouza.github.io/game_algomon_website/HomePage.html
 
 ## Pages
 - **Home** – game overview, gameplay features, online play and platforms
@@ -36,4 +33,7 @@ CCT College Dublin, 2024).
 HTML5 · CSS3 · JavaScript (DOM event listeners)
 
 ## Run Locally
-Download or clone the repository and open `index.html` in your browser.
+Download or clone the repository and open `HomePage.html` in your browser. Images are in the `img/` folder.
+
+## Credits
+Images used for educational purposes; rights belong to their respective owners.
